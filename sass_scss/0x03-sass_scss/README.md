@@ -1,1 +1,2 @@
-# 0x03. Sass & Scss
+0x03. Sass & Scss
+RICHARD ANYADOE
